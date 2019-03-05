@@ -1,9 +1,9 @@
 ##randomPassw.py##
 
-#EjecuciÛn#
--Instalar python 3.7.x. Se puede bajar desde la p·gina oficial para Windows (https://www.python.org/).
+#Ejecuci√≥n#
+-Instalar python 3.7.x. Se puede bajar desde la p√°gina oficial para Windows (https://www.python.org/).
 -Descargar la libreria de appJar para la interfaz. Esta disponible en: http://appjar.info
--Si utiliza Python en Mac o Linux, refiera a http://appjar.info/install/
+-Si utiliza Python en Mac o Linux, refiera a http://appjar.info/Install/
 -Una vez instalado, solo basta darle doble click al archivo 'randomPassw.py' o ejecute desde terminal.
 
 *Nota: Si appjar no esta disponible, el codigo no va a funcionar
